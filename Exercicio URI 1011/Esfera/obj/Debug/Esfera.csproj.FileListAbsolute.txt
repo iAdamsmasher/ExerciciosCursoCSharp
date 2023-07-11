@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\bin\Debug\Esfera.exe.config
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\bin\Debug\Esfera.exe
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\bin\Debug\Esfera.pdb
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\obj\Debug\Esfera.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\obj\Debug\Esfera.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\obj\Debug\Esfera.exe
+C:\DevelopmentProjects\xerciciosCursoCSharp\Exercicio URI 1011\Esfera\obj\Debug\Esfera.pdb
