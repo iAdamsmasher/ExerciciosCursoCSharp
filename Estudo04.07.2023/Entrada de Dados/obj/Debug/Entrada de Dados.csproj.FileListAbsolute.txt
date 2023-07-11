@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\bin\Debug\Entrada de Dados.exe.config
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\bin\Debug\Entrada de Dados.exe
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\bin\Debug\Entrada de Dados.pdb
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\obj\Debug\Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\obj\Debug\Entrada de Dados.exe
+C:\DevelopmentProjects\Entrada de Dados\Entrada de Dados\obj\Debug\Entrada de Dados.pdb

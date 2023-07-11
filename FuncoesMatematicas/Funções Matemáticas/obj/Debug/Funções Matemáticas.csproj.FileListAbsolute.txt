@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\bin\Debug\Funções Matemáticas.exe.config
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\bin\Debug\Funções Matemáticas.exe
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\bin\Debug\Funções Matemáticas.pdb
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\obj\Debug\Funções Matemáticas.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\obj\Debug\Funções Matemáticas.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\obj\Debug\Funções Matemáticas.exe
+C:\DevelopmentProjects\FuncoesMatematicas\Funções Matemáticas\Funções Matemáticas\obj\Debug\Funções Matemáticas.pdb

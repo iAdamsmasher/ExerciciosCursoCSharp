@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\ExercicioResolvido1.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\ExercicioResolvido1.exe.config
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\ExercicioResolvido1.exe
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\ExercicioResolvido1.pdb
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\ExercicioResolvido1.exe
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\ExercicioResolvido1.pdb
+C:\DevelopmentProjects\ExercicioResolvido1\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\ExercicioResolvido1.csproj.AssemblyReference.cache

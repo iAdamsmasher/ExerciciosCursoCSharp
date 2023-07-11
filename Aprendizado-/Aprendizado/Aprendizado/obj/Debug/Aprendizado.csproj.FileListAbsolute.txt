@@ -1,0 +1,8 @@
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\bin\Debug\Aprendizado.exe.config
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\bin\Debug\Aprendizado.exe
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\bin\Debug\Aprendizado.pdb
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\obj\Debug\Aprendizado.csproj.AssemblyReference.cache
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\obj\Debug\Aprendizado.csproj.SuggestedBindingRedirects.cache
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\obj\Debug\Aprendizado.csproj.CoreCompileInputs.cache
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\obj\Debug\Aprendizado.exe
+F:\Development Projects\Aprendizado\Aprendizado\Aprendizado\obj\Debug\Aprendizado.pdb

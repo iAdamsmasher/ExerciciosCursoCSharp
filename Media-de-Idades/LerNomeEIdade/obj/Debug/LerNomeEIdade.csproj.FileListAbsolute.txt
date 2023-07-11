@@ -1,0 +1,7 @@
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\bin\Debug\LerNomeEIdade.exe.config
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\bin\Debug\LerNomeEIdade.exe
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\bin\Debug\LerNomeEIdade.pdb
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\obj\Debug\LerNomeEIdade.csproj.AssemblyReference.cache
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\obj\Debug\LerNomeEIdade.csproj.CoreCompileInputs.cache
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\obj\Debug\LerNomeEIdade.exe
+C:\Users\jagmpaiv\source\repos\LerNomeEIdade\LerNomeEIdade\obj\Debug\LerNomeEIdade.pdb

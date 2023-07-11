@@ -1,7 +1,0 @@
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\bin\Debug\ExercicioUri1009.exe.config
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\bin\Debug\ExercicioUri1009.exe
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\bin\Debug\ExercicioUri1009.pdb
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\obj\Debug\ExercicioUri1009.csproj.AssemblyReference.cache
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\obj\Debug\ExercicioUri1009.csproj.CoreCompileInputs.cache
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\obj\Debug\ExercicioUri1009.exe
-C:\DevelopmentProjects\Exercicio URI 1009\ExercicioUri1009\ExercicioUri1009\obj\Debug\ExercicioUri1009.pdb

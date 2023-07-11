@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\bin\Debug\TemplateCodes.exe.config
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\bin\Debug\TemplateCodes.exe
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\bin\Debug\TemplateCodes.pdb
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\obj\Debug\TemplateCodes.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\obj\Debug\TemplateCodes.exe
+C:\DevelopmentProjects\TemplateCodes\TemplateCodes\obj\Debug\TemplateCodes.pdb
