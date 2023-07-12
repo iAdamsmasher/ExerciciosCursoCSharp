@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\bin\Debug\Diferenca.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\bin\Debug\Diferenca.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\bin\Debug\Diferenca.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\obj\Debug\Diferenca.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\obj\Debug\Diferenca.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\obj\Debug\Diferenca.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Diferenca\Diferenca\obj\Debug\Diferenca.pdb

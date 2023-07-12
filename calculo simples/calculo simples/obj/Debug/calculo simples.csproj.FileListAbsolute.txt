@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\bin\Debug\calculo simples.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\bin\Debug\calculo simples.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\bin\Debug\calculo simples.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\obj\Debug\calculo simples.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\obj\Debug\calculo simples.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\obj\Debug\calculo simples.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\calculo simples\calculo simples\obj\Debug\calculo simples.pdb

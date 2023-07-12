@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\bin\Debug\Salario.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\bin\Debug\Salario.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\bin\Debug\Salario.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\obj\Debug\Salario.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Salario\Salario\obj\Debug\Salario.pdb

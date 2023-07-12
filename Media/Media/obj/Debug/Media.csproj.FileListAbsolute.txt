@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\bin\Debug\Media.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\bin\Debug\Media.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\bin\Debug\Media.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\obj\Debug\Media.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Media\Media\obj\Debug\Media.pdb

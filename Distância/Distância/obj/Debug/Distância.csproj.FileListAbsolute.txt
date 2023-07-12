@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\bin\Debug\Distância.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\bin\Debug\Distância.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\bin\Debug\Distância.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\obj\Debug\Distância.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\obj\Debug\Distância.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\obj\Debug\Distância.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Distância\Distância\obj\Debug\Distância.pdb
