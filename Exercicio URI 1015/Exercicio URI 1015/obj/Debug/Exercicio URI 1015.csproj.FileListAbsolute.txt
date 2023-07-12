@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\bin\Debug\Exercicio URI 1015.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\bin\Debug\Exercicio URI 1015.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\bin\Debug\Exercicio URI 1015.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\obj\Debug\Exercicio URI 1015.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\obj\Debug\Exercicio URI 1015.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\obj\Debug\Exercicio URI 1015.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio URI 1015\Exercicio URI 1015\obj\Debug\Exercicio URI 1015.pdb
