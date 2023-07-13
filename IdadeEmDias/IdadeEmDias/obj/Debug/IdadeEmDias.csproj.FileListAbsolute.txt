@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.pdb
