@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\bin\Debug\OMaior.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\bin\Debug\OMaior.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\bin\Debug\OMaior.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\obj\Debug\OMaior.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\obj\Debug\OMaior.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\obj\Debug\OMaior.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OMaior\OMaior\obj\Debug\OMaior.pdb

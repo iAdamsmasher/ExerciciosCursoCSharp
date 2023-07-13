@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\ConversaoDeTempo.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\ConversaoDeTempo.pdb

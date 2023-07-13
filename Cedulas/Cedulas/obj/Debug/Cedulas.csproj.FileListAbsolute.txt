@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\bin\Debug\Cedulas.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\bin\Debug\Cedulas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\bin\Debug\Cedulas.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\obj\Debug\Cedulas.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\obj\Debug\Cedulas.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\obj\Debug\Cedulas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Cedulas\Cedulas\obj\Debug\Cedulas.pdb
