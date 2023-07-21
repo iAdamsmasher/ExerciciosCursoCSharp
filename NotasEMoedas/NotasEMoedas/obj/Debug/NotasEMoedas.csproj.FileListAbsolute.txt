@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\bin\Debug\NotasEMoedas.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\bin\Debug\NotasEMoedas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\bin\Debug\NotasEMoedas.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\obj\Debug\NotasEMoedas.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\obj\Debug\NotasEMoedas.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\obj\Debug\NotasEMoedas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\NotasEMoedas\NotasEMoedas\obj\Debug\NotasEMoedas.pdb

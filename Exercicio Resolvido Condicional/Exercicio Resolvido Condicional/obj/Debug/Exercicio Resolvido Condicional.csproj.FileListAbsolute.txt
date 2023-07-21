@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\obj\Debug\Exercicio Resolvido Condicional.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\bin\Debug\Exercicio Resolvido Condicional.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\bin\Debug\Exercicio Resolvido Condicional.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\bin\Debug\Exercicio Resolvido Condicional.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\obj\Debug\Exercicio Resolvido Condicional.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Exercicio Resolvido Condicional\Exercicio Resolvido Condicional\obj\Debug\Exercicio Resolvido Condicional.pdb

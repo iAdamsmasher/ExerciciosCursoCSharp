@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\FormulaDeBaskara.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\FormulaDeBaskara.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\bin\Debug\FormulaDeBaskara.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.csproj.AssemblyReference.cache

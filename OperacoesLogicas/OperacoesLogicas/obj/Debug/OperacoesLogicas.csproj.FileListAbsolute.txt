@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\bin\Debug\OperacoesLogicas.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\bin\Debug\OperacoesLogicas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\bin\Debug\OperacoesLogicas.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\obj\Debug\OperacoesLogicas.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\obj\Debug\OperacoesLogicas.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\obj\Debug\OperacoesLogicas.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\OperacoesLogicas\OperacoesLogicas\obj\Debug\OperacoesLogicas.pdb
