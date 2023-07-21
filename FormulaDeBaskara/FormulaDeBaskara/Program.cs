@@ -23,7 +23,7 @@ namespace FormulaDeBaskara
             x1 = ((-B + Math.Sqrt(delta)) / (2 * A));
             x2 = ((-B - Math.Sqrt(delta)) / (2 * A));
 
-            if (A <= 0 || B <=0 || C <=0 || delta <=0)
+            if (A == 0.0 || delta < 0.0)
             {
                 Console.WriteLine("Impossivel calcular");
             }
