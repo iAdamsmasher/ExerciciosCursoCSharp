@@ -4,4 +4,3 @@ C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\b
 C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.csproj.CoreCompileInputs.cache
 C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.exe
 C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.pdb
-C:\DevelopmentProjects\ExerciciosCursoCSharp\FormulaDeBaskara\FormulaDeBaskara\obj\Debug\FormulaDeBaskara.csproj.AssemblyReference.cache
