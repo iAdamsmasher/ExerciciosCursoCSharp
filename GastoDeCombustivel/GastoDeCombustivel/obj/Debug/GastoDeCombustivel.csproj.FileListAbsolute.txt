@@ -1,0 +1,6 @@
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe.config
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.pdb
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.exe
+C:\Users\jagmpaiv\source\repos\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.pdb

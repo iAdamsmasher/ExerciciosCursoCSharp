@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\bin\Debug\ExedenteAcumulativo.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\bin\Debug\ExedenteAcumulativo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\bin\Debug\ExedenteAcumulativo.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\obj\Debug\ExedenteAcumulativo.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\obj\Debug\ExedenteAcumulativo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\ExedenteAcumulativo\ExedenteAcumulativo\obj\Debug\ExedenteAcumulativo.pdb
