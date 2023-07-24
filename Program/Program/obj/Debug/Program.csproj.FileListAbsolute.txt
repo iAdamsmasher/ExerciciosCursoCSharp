@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\bin\Debug\Program.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\bin\Debug\Program.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\bin\Debug\Program.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\obj\Debug\Program.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Program\Program\obj\Debug\Program.pdb
