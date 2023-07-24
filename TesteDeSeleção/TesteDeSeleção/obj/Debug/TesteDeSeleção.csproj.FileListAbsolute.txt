@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\bin\Debug\TesteDeSeleção.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\bin\Debug\TesteDeSeleção.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\bin\Debug\TesteDeSeleção.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\obj\Debug\TesteDeSeleção.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\obj\Debug\TesteDeSeleção.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\obj\Debug\TesteDeSeleção.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TesteDeSeleção\TesteDeSeleção\obj\Debug\TesteDeSeleção.pdb

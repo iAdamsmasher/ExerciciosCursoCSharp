@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\bin\Debug\Lanche.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\bin\Debug\Lanche.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\bin\Debug\Lanche.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\obj\Debug\Lanche.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\obj\Debug\Lanche.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\obj\Debug\Lanche.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Lanche\Lanche\obj\Debug\Lanche.pdb
