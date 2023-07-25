@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\bin\Debug\Multiplos.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\bin\Debug\Multiplos.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\bin\Debug\Multiplos.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\obj\Debug\Multiplos.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\obj\Debug\Multiplos.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Multiplos\Multiplos\obj\Debug\Multiplos.pdb

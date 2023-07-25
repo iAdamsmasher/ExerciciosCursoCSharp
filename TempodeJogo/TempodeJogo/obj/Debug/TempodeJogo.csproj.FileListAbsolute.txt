@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\bin\Debug\TempodeJogo.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\bin\Debug\TempodeJogo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\bin\Debug\TempodeJogo.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\obj\Debug\TempodeJogo.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\obj\Debug\TempodeJogo.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\obj\Debug\TempodeJogo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TempodeJogo\TempodeJogo\obj\Debug\TempodeJogo.pdb
