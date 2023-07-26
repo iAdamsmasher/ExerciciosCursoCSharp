@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\bin\Debug\TiposDeTriangulo.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TiposDeTriangulo\TiposDeTriangulo\obj\Debug\TiposDeTriangulo.csproj.AssemblyReference.cache

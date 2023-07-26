@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\CoordenadasDeUmPonto.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\CoordenadasDeUmPonto.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordenadasDeUmPonto", "CoordenadasDeUmPonto\CoordenadasDeUmPonto.csproj", "{6ED89372-3187-48B4-B1AE-753E76E5B4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED89372-3187-48B4-B1AE-753E76E5B4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED89372-3187-48B4-B1AE-753E76E5B4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED89372-3187-48B4-B1AE-753E76E5B4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED89372-3187-48B4-B1AE-753E76E5B4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23479EA-4DAD-4EB2-B5DE-242F3C1758D2}
+	EndGlobalSection
+EndGlobal
