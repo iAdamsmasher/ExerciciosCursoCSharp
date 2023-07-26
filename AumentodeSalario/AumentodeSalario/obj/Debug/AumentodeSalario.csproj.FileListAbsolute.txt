@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\bin\Debug\AumentodeSalario.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\AumentodeSalario\AumentodeSalario\obj\Debug\AumentodeSalario.pdb
