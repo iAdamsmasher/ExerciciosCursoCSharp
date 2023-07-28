@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\bin\Debug\Animal.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\bin\Debug\Animal.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\bin\Debug\Animal.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\obj\Debug\Animal.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\obj\Debug\Animal.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\Animal\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
