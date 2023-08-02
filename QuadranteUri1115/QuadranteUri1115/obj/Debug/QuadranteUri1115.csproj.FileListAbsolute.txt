@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\bin\Debug\QuadranteUri1115.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\bin\Debug\QuadranteUri1115.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\bin\Debug\QuadranteUri1115.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\obj\Debug\QuadranteUri1115.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\obj\Debug\QuadranteUri1115.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\obj\Debug\QuadranteUri1115.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\QuadranteUri1115\QuadranteUri1115\obj\Debug\QuadranteUri1115.pdb

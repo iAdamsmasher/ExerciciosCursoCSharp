@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\SenhaFixaURI1114.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\SenhaFixaURI1114.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\bin\Debug\SenhaFixaURI1114.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\SenhaFixaURI1114.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\SenhaFixaURI1114.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SenhaFixaURI1114\SenhaFixaURI1114\obj\Debug\SenhaFixaURI1114.pdb

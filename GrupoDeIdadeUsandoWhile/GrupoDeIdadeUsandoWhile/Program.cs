@@ -28,6 +28,7 @@ namespace GrupoDeIdadeUsandoWhile
                 media = soma / cont;
                 Console.WriteLine(media.ToString("F2", CultureInfo.InvariantCulture));
             }
+            Console.ReadLine();
         }
     }
 }
