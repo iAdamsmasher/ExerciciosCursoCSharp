@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 
-namespace NotasEMoedas
+namespace uri1021
 {
     class Program
     {
@@ -14,7 +10,7 @@ namespace NotasEMoedas
             double N;
             int quociente, resto, nota, moeda;
 
-            N = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            N = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             // Vamos multiplicar N por 100 e forçar a conversão para int.
             // Desse modo, por exemplo, 576.73 vai se tornar 57673
@@ -25,36 +21,73 @@ namespace NotasEMoedas
             // 576.81 e multiplicarmos por 100, o resultado sera 57680.99999999,
             // dai o casting resultaria em 57680 e nao 57681 como desejado)
 
-            int cem =(int)(Math.Floor(N / 100));
+            resto = (int)(N * 100.0 + 0.5);
 
-            int cinquenta = (int)(Math.Floor((N % 100) / 50));
+            Console.WriteLine("NOTAS:");
 
-            int vinte = (int)(Math.Floor((N % 50) / 20));
+            // como multiplicamos o valor por 100 acima, o valor de cada nota
+            // também deverá ser multiplicado por 100 a seguir
 
-            int dez = (int)(Math.Floor(N % 20) / 10);
+            nota = 100;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
-            int cinco = (int)(Math.Floor(N % 10) / 5);
+            nota = 50;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
-            int dois = (int)(Math.Floor(N % 5) / 2);
+            nota = 20;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
-            int um = (int)(Math.Floor((N % 5) % 2));
+            nota = 10;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
-            int fifCen = (int)(Math.Floor((N % 1) / 0.5));
+            nota = 5;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
+            nota = 2;
+            quociente = resto / (nota * 100);
+            Console.WriteLine(quociente + " nota(s) de R$ " + nota + ".00");
+            resto = resto % (nota * 100);
 
-            Console.WriteLine(cem + " de R$ 100,00 ");
-            Console.WriteLine(cinquenta + " de R$ 50,00 ");
-            Console.WriteLine(vinte + " de R$ 20,00 ");
-            Console.WriteLine(dez + " de R$ 10,00 ");
-            Console.WriteLine(cinco + " de R$ 5,00 ");
-            Console.WriteLine(dois + " de R$ 2,00 ");
-            Console.WriteLine(um + " de R$ 1,00 ");
-            Console.WriteLine(fifCen + "0,5");
+            Console.WriteLine("MOEDAS:");
 
+            // o valor de cada moeda deverá ser representado em centavos
 
+            moeda = 100;
+            quociente = resto / moeda;
+            Console.WriteLine(quociente + " moeda(s) de R$ 1.00");
+            resto = resto % moeda;
 
+            moeda = 50;
+            quociente = resto / moeda;
+            Console.WriteLine(quociente + " moeda(s) de R$ 0.50");
+            resto = resto % moeda;
 
+            moeda = 25;
+            quociente = resto / moeda;
+            Console.WriteLine(quociente + " moeda(s) de R$ 0.25");
+            resto = resto % moeda;
 
+            moeda = 10;
+            quociente = resto / moeda;
+            Console.WriteLine(quociente + " moeda(s) de R$ 0.10");
+            resto = resto % moeda;
+
+            moeda = 5;
+            quociente = resto / moeda;
+            Console.WriteLine(quociente + " moeda(s) de R$ 0.05");
+            resto = resto % moeda;
+
+            Console.WriteLine(resto + " moeda(s) de R$ 0.01");
         }
     }
 }
