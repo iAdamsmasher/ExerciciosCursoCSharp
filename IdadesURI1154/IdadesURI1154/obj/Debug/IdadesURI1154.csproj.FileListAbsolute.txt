@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\bin\Debug\IdadesURI1154.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\bin\Debug\IdadesURI1154.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\bin\Debug\IdadesURI1154.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\obj\Debug\IdadesURI1154.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\obj\Debug\IdadesURI1154.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\obj\Debug\IdadesURI1154.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\IdadesURI1154\IdadesURI1154\obj\Debug\IdadesURI1154.pdb
