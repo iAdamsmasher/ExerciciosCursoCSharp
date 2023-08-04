@@ -1,0 +1,6 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\bin\Debug\SortSimples.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\bin\Debug\SortSimples.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\bin\Debug\SortSimples.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\obj\Debug\SortSimples.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\obj\Debug\SortSimples.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\SortSimples\SortSimples\obj\Debug\SortSimples.pdb
