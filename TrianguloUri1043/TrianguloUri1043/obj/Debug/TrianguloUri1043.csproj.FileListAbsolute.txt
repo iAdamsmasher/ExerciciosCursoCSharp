@@ -1,0 +1,7 @@
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\bin\Debug\TrianguloUri1043.exe.config
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\bin\Debug\TrianguloUri1043.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\bin\Debug\TrianguloUri1043.pdb
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\obj\Debug\TrianguloUri1043.csproj.AssemblyReference.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\obj\Debug\TrianguloUri1043.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\obj\Debug\TrianguloUri1043.exe
+C:\DevelopmentProjects\ExerciciosCursoCSharp\TrianguloUri1043\TrianguloUri1043\obj\Debug\TrianguloUri1043.pdb
