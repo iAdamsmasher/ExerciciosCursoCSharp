@@ -18,7 +18,7 @@ namespace DDDUri1050
             }
             else if (discagem == 11)
             {
-                Console.WriteLine("São Paulo");
+                Console.WriteLine("Sao Paulo");
             }
             else if (discagem == 21)
             {
