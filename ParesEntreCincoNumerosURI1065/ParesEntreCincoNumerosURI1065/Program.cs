@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ParesEntreCincoNumerosURI1065
 {
@@ -10,6 +6,19 @@ namespace ParesEntreCincoNumerosURI1065
     {
         static void Main(string[] args)
         {
+            int N, count, i;
+            N = 0;
+            i = 0;
+            count = 0;
+            for (i = 0; i < 5; i++)
+            {
+                N = int.Parse(Console.ReadLine());
+                if (N % 2 == 0)
+                {
+                    count++;
+                }
+            }
+            Console.WriteLine(count + " valores pares");
         }
     }
 }
