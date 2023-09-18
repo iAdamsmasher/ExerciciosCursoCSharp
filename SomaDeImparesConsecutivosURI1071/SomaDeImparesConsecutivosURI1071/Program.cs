@@ -21,11 +21,11 @@ namespace SomaDeImparesConsecutivosURI1071
                 max = X;
             }
             soma = 0;
-             for (int i = min + 1; i < max; i++)
+            for (int i = min + 1; i < max; i++)
             {
                 if (i % 2 != 0)
                 {
-                    soma = soma + 1;
+                    soma = soma + i;
                 }
             }
             Console.WriteLine(soma);
